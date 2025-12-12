@@ -33,6 +33,6 @@ public class Solution04_LastStoneWeight {
         System.out.println(solution.solve(new int[]{2, 3, 6, 2, 4})); // Expected: 1
 
         // Test Case 2
-        System.out.println(solution.solve(new int[]{1, 2})); // Expected: 0
+        System.out.println(solution.solve(new int[]{2, 2})); // Expected: 0
     }
 }
